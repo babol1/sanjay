@@ -11,7 +11,8 @@
 	<groupId>com.sanjay.learning</groupId>
 	<artifactId>demoSpring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demoSpring</name>
+	<name>demoSpring
+	</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
